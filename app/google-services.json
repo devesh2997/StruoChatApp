@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1004531315034",
+    "firebase_url": "https://struochatapp.firebaseio.com",
+    "project_id": "struochatapp",
+    "storage_bucket": "struochatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004531315034:android:4c3fc53070a73c7c",
+        "android_client_info": {
+          "package_name": "com.neutrinostruo.struochatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004531315034-nlcn7bm1skefu3iottvbce85dqovtpja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neutrinostruo.struochatapp",
+            "certificate_hash": "E2516A3BD66A798904DF8FD91AF6DD0CA6437D2E"
+          }
+        },
+        {
+          "client_id": "1004531315034-p3doeb2m9fmumgfe7tvr8p4fn63n9gtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVvYJvkNtwGgJjGvge6cffrcBD7kd6A-Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004531315034-p3doeb2m9fmumgfe7tvr8p4fn63n9gtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
